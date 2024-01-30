@@ -1,3 +1,14 @@
 body{
   background-color: #000;
+  font-family: var(--font-dm-sans);
+  color: #b3b3b3;
+}
+
+a{
+  color: #b3b3b3;
+  text-decoration: none;
+}
+
+.uppercase{
+  text-transform: uppercase;
 }
